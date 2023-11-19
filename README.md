@@ -1,4 +1,4 @@
-# Conteúdo criado para GlobalSolution OPTIMIZATION-TECHNOLOGY(FrontEnd) + + DIGITAL EXPERIENCE PLATAFORM(BackEnd)
+# Conteúdo criado para GlobalSolution OPTIMIZATION-TECHNOLOGY(FrontEnd) + DIGITAL EXPERIENCE PLATAFORM(BackEnd)
 
 ### Link da API
 
