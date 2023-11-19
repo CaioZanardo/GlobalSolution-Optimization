@@ -2,7 +2,7 @@
 
 ### Link da API
 
-https://github.com/CaioZanardo/GlobalSolution-Api-Devops
+- https://github.com/CaioZanardo/GlobalSolution-Api-Devops
 
 ### Bibliotecas utilizadas no projeto
 
