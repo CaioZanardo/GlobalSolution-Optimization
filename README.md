@@ -32,6 +32,10 @@
   
 ![PRINT!](img/cadastrosucesso.png)
 
+- Após cadastro pode validar se realmente foi cadastrado no Banco de Dados;
+
+![PRINT!](img/tabela.png)
+
 - Realizar Login;
  
 ![PRINT!](img/login.png)
