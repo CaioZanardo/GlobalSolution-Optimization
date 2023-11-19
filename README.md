@@ -32,7 +32,7 @@
   
 ![PRINT!](img/cadastrosucesso.png)
 
-- Após cadastro pode validar se realmente foi cadastrado no Banco de Dados;
+- Após cadastrar pode validar se os dados realmente estão no Banco de Dados;
 
 ![PRINT!](img/tabela.png)
 
