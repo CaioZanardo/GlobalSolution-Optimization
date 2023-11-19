@@ -25,25 +25,25 @@ https://github.com/CaioZanardo/GlobalSolution-Api-Devops
   - Inserir dados correspondente;
   - Clicar em "Cadastrar"; 
 
-![PRINT!](cadastrar.png)
+![PRINT!](img/cadastrar.png)
 
 - Cadastro realizado;
     - Clicar em "OK" para continuar;
   
-![PRINT!](cadastrosucesso.png)
+![PRINT!](img/cadastrosucesso.png)
 
 - Realizar Login;
  
-![PRINT!](login.png)
+![PRINT!](img/login.png)
 
 - Se estiver tudo OK com os dados após logar exibirá um alert;
   - Clicar em "OK" para continuar;
 
-![PRINT!](logado.png)
+![PRINT!](img/logado.png)
 
 - Exibirá a lista de atividades fisica o usuario.
 
-![PRINT!](lista.png)
+![PRINT!](img/lista.png)
 
 ## Grupo
 
