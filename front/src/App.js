@@ -57,6 +57,9 @@ function App() {
 
   return (
     <div className="container">
+      <div className="menu">
+        <span>Smart Vida</span>
+      </div>
       <h1>Login</h1>
       <Formik
         initialValues={{}}

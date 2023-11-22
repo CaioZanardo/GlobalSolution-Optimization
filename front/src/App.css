@@ -38,19 +38,22 @@ h1 {
   margin-bottom: 20px;
 }
 
+/*listadeatividade*/
+
 .App {
   text-align: center;
 }
 
 .App-header {
-  background-color: #fff; /* Fundo branco */
+  background-color: #fff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: #333; /* Cor do texto principal */
+  color: #333;
+  margin-top: 60px;
 }
 
 h2 {
@@ -65,20 +68,47 @@ h2 {
 
 .info-table th, .info-table td {
   border: 1px solid #ddd;
-  padding: 10px; /* Aumenta o preenchimento para mais espaço */
+  padding: 10px;
   text-align: left;
 }
 
 .info-table th {
-  background-color: #f2f2f2; /* Cor de fundo do cabeçalho */
-  color: #333; /* Cor do texto no cabeçalho */
-  font-weight: bold; /* Texto em negrito no cabeçalho */
+  background-color: #f2f2f2;
+  color: #333;
+  font-weight: bold; 
 }
 
 .info-table tbody tr:nth-child(even) {
-  background-color: #f9f9f9; /* Cor de fundo para linhas pares */
+  background-color: #f9f9f9;
 }
 
 .info-table tbody td {
-  font-weight: bold; /* Texto em negrito nas células do corpo */
+  font-weight: bold; 
+}
+
+/*Menu*/
+
+.menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu span {
+  font-size: 1.5rem;
+}
+
+.menu button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  margin-right: 20px;
 }

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./App.css";
 import Axios from "axios";
 
@@ -12,8 +13,16 @@ function ListaAtividade() {
 
   return (
     <div className="App">
+      <div className="menu">
+        <span>Smart Vida</span>
+        <Link to="/">
+          <button>Sair</button>
+        </Link>
+      </div>
+
       <header className="App-header">
-      <h2>Lista de Atividade</h2>
+        <h2>Lista de Atividade</h2>
+
         <table className="info-table">
           <thead>
             <tr>
@@ -22,12 +31,12 @@ function ListaAtividade() {
             </tr>
           </thead>
           <tbody>
-            {data && data ? data.map((item, index) => (
+            {data && data.map((item, index) => (
               <tr key={index}>
                 <td>{item.exerc}</td>
                 <td>{item.des}</td>
               </tr>
-            )) : null}
+            ))}
           </tbody>
         </table>
       </header>
